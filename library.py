@@ -1,11 +1,4 @@
-"""
-CS1026a 2023
-Assignment 02
-Fayzan Malik
-251379967
-fmalik53
-Oct 25th, 2023
-"""
+
 allBooks = [
                 ['9780596007126',"The Earth Inside Out","Mike B",2,['Ali']],
                 ['9780134494166',"The Human Body","Dave R",1,[]],
